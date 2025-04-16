@@ -1,0 +1,4 @@
+Flask==2.2.5
+clickhouse-driver==0.2.6
+pandas==2.2.1
+pyjwt==2.8.0
